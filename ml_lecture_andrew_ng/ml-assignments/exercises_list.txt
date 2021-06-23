@@ -1,0 +1,8 @@
+Programming Exercise 1: Linear Regression (complete)
+Programming Exercise 2: Logistic Regression (complete)
+Programming Exercise 3: Multi-class Classification and Neural Networks (complete)
+Programming Exercise 4: Neural Networks Learning (skip)
+Programming Exercise 5: Regularized Linear Regression and Bias vs Variance (todo)
+Programming Exercise 6: Support Vector Machines (skip)
+Programming Exercise 7: K-means Clustering and Principal Component Analysis (todo)
+Programming Exercise 8: Anomaly Detection and Recommender Systems (todo)
