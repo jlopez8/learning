@@ -1,0 +1,16 @@
+Section Part Submitted Function Points
+
+x 1 	Regularized Linear Regression Cost Function 	linearRegCostFunction 	25
+
+x 2 	Regularized Linear Regression Gradient 	linearRegCostFunction 	25
+
+failed 3 	Learning Curve 	learningCurve 	20
+
+-- i think the learning curve function has a giant problem.
+-- 
+
+x 4 	Polynomial Feature Mapping 	polyFeatures 10
+
+5 	Cross Validation Curve 	validationCurve 20
+
+Total Points 		100
