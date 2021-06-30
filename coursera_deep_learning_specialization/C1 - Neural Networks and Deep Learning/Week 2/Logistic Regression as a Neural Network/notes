@@ -1,0 +1,14 @@
+fid = h5f.open(name, flags, fapl=fapl)
+
+name = 
+
+ train_dataset = h5py.File('datasets/train_catvnoncat.h5', "r")
+
+
+ h5debug cannot open file
+
+ >> find out how fix this
+
+ OSError: Unable to open file (file signature not found)
+
+ 
